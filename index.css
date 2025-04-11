@@ -1,0 +1,23 @@
+@import '@fontsource/baloo-bhai-2';
+@import '@fontsource/poppins';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-lavender: #C7A7EB;
+  --color-baby-pink: #FDD6E3;
+  --color-pastel-yellow: #FBE9AA;
+  --color-soft-blue: #A9C5F2;
+  --color-bubblegum: #FFD3E3;
+  --color-deep-lilac: #7B66AC;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.font-baloo {
+  font-family: 'Baloo Bhai 2', cursive;
+}
